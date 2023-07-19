@@ -6,7 +6,7 @@
 
 body {
 background-color: #dedede;
-font-family: arial, helvetica, sans-serif;
+font-family: Sans;
 display: flex;
 flex-direction: column;
 
@@ -58,6 +58,7 @@ padding: 18px;
 
 .clearfix{
 clear: both;
+margin: 10px;
 }
 
 #content{
@@ -141,4 +142,4 @@ p {
 		width: auto;
 	}
 }
-         
+
